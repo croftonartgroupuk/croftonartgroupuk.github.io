@@ -8,14 +8,14 @@ description: > # this means to ignore newlines until "twitter_username:"
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
-permalink: none
+
 
 assets:
   dirname: assets
   baseurl: /assets/
   sources:
     - assets
-
+permalink: none
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
 minima:
