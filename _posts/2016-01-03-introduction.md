@@ -2,9 +2,6 @@
 layout: post
 title: Introduction
 published: true
-permalink: short-urls-jekyll
-
-
 ---
 
 Hello!
