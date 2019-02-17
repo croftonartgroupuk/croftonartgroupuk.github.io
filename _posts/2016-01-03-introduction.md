@@ -13,4 +13,4 @@ Hello!
 
 
 
-<img alt="2016-01-03-introduction-6ab31800.JPG" src="img/2016-01-03-introduction-6ab31800.JPG" width="" height="" >
+![](../assets/img/IMGP3125%20[640x480].JPG)
