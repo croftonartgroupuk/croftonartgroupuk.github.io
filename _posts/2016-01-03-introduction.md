@@ -13,4 +13,4 @@ Hello!
 
 
 
-![](../assets/img/IMGP3125%20[640x480].JPG)
+![](../../../assets/img/IMGP3125%20[640x480].JPG)
