@@ -8,6 +8,8 @@ title:               Crofton Art Group
 paginate:            1
 baseurl:             ""
 
+theme: jekyll-theme-cayman
+
 # Assets
 #
 # We specify the directory for Jekyll so we can use @imports.
