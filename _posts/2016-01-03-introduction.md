@@ -2,6 +2,7 @@
 layout: post
 title: Introduction
 published: true
+permalink: Intro-ab
 ---
 
 Hello!
