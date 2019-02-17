@@ -10,7 +10,3 @@ published: true
 
 
 Hello!
-
-
-
-![](../../../assets/img/IMGP3125%20[640x480].JPG)
