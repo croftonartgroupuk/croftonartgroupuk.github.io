@@ -6,7 +6,7 @@ kramdown:
 highlighter:         true
 
 # Permalinks
-permalink:        pretty
+#permalink:        pretty
 
 # Setup
 title:            Crofton Art Group
