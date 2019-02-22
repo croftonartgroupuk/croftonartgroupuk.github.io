@@ -17,6 +17,8 @@ tagline:          ''
 author:
   name:           'Crofton Art Group'
 
+url: croftonartgroupuk.github.io
+baseurl: /
 
 paginate:         1
 
