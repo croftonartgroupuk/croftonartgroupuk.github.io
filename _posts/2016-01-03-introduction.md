@@ -7,4 +7,4 @@ published: true
 
 Hello!
 
-![](assets/2016-01-03-introduction-beb08e91.JPG)
+![]({url}/assets/2016-01-03-introduction-beb08e91.JPG)
